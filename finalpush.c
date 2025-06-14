@@ -7,5 +7,6 @@ int main ()
     scanf("%d",&n);
     printf("%d",n);
     printf("Hello");
+    printf("Edited push");
 
 }
